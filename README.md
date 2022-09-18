@@ -1,5 +1,5 @@
 # Learn GO
 
-*My notes learning GO as a newbie*🐻
+*My notes learning GO*🐻
 
 *Short is better*
