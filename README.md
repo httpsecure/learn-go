@@ -1,2 +1,5 @@
-# learn-go
-my notes learning go as a newbie 🐻
+Learn GO
+
+*My notes learning GO as a newbie*🐻
+
+*Short is better*
